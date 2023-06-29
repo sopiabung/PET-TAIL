@@ -30,4 +30,4 @@ jQuery
 JSP
 > 
 
-[ Project](https://www.notion.so/e7518c917f864fd1a34c97733052d17b?pvs=21)
+읽어주셔서 감사합니다 좋은하루 되세요 😊
